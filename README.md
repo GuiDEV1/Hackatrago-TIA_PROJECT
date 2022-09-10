@@ -1,5 +1,9 @@
 <h1>Hackatrago TIA E LUNA ROJECT </h1>
 
+<h3>Integrantes</h3>
+
+<a href="https://github.com/victorhmszzero">victorhmszzero<a/>  <a href="https://github.com/IsabelliOliveira">IsabelliOliveira</a> <a href="https://github.com/adrianocqueiroz">adrianocqueiroz</a> <a href="https://github.com/gwnhwyfarr">gwnhwyfarr</a>
+
 <img src="https://cdn.discordapp.com/attachments/773372240686350356/1017865210490527854/hacktrago_a.png">
 
 <h2>1. O QUE É? </h2>
